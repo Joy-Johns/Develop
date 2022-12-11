@@ -15,7 +15,8 @@
 
 ## Usage
 
-This code can be used for ideas on how to create a password generator, but if there are any suggestions, feel free to let me know.
+<br>This code can be used for ideas on how to create a password generator, but if there are any suggestions, feel free to let me know.</br>
+<br>You can also view this in published form at the following link: https://joy-johns.github.io/Joycell-Challenge-3/</br>
 
 ## Credits
 
